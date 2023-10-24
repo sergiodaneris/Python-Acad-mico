@@ -47,4 +47,16 @@ Por meio deste Readme eu pretendo passar alguns tutoriais e dicas do uso do Pyth
 
    Função:  Aprendizado de máquina e mineração de dados. Pode ser utilizado para classificação, regressão, clustering, processamento de linguagem natural, tarefas de aprendizado de máquina.
 
-   comando: pip install scikitlearn
+   comando: pip install scikit-learn
+
+* StatsModels:
+
+    Função: Estimativa e interpretação de modelos estatísticos. Pode ser utilizado para modelagem estatística, análise de dados para pesquisas científicas e acadêmicas.
+
+    comando: pip install statsmodels
+
+* Pandas Profiling:
+
+    Função: Geração de relatórios automatizados para análise exploratória de dados. Pode ser utilizado para análise exploratória rápida, visualização de resumos de dados complexos.
+
+    comando: pip install pandas-profiling
